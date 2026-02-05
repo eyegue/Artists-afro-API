@@ -1,0 +1,9 @@
+
+node_modules/
+client/node_modules/
+Projet_API/node_modules/
+
+
+.env
+client/.env
+Projet_API/.env
